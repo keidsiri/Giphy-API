@@ -1,8 +1,8 @@
 # _{Application Name}_
 
-#### By _Kate Kiatsiri , Matt Casperson , Drew Henderson **_
+#### By _Kate Kiatsiri , Matt Casperson , Drew Henderson_
 
-#### _{Brief description of application}_
+#### _An application that allows users to search Giphy for interesting GIFs.__
 
 ## Technologies Used
 
@@ -17,7 +17,7 @@
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+An application that allow users to search and find gifs by putting keyword, Also it will show the top ten trending and some random gifs when they click to see randomly gifs on website.
 
 ## Setup/Installation Requirements
 
