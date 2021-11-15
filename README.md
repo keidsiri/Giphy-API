@@ -1,6 +1,6 @@
 # _{Application Name}_
 
-#### By _Kate Kiatsiri**_
+#### By _Kate Kiatsiri , Matt Casperson , Drew Henderson **_
 
 #### _{Brief description of application}_
 
@@ -39,5 +39,5 @@ _{This is a detailed description of your application. Give as much detail as nee
 
 ## Contact
 
-_If you have any questions please feel free to [contact me](mailto:keidsiri@gmail.com)_
+_If you have any questions please feel free to contact me [Kate K.](mailto:keidsiri@gmail.com) [Matt C.](mailto:mc.casperson@gmail.com) [Andrew](mailto:drewhendersonemail@gmail.com_
 
