@@ -35,7 +35,7 @@ An application that allow users to search and find gifs by putting keyword, Also
 
 ## License 
 
-#### [MIT](https://opensource.org/licenses/MIT) Copyright (c) _2021_ _Kate Kiatsiri_
+#### [MIT](https://opensource.org/licenses/MIT) Copyright (c) _2021_ _Kate Kiatsiri , Matt Casperson , Drew Henderson, Katie Pundt, Marisa Edgar_
 
 ## Contact
 
