@@ -1,6 +1,6 @@
-# _{Application Name}_
+# _GIPHY API_
 
-#### By _Kate Kiatsiri , Matt Casperson , Drew Henderson_
+#### By _Kate Kiatsiri , Matt Casperson , Drew Henderson, Katie Pundt, Marisa Edgar_
 
 #### _An application that allows users to search Giphy for interesting GIFs.__
 
@@ -42,5 +42,8 @@ An application that allow users to search and find gifs by putting keyword, Also
 _If you have any questions please feel free to contact us <br>
 [Kate K.](mailto:keidsiri@gmail.com) <br>
 [Matt C.](mailto:mc.casperson@gmail.com) <br>
-[Andrew](mailto:drewhendersonemail@gmail.com)_
+[Andrew](mailto:drewhendersonemail@gmail.com)<br>
+[Katie P.](mailto:kzpundt@gmail.com)<br>
+[Marisa E.](mailto:marisaedgar1212@gmail.com)<br>
+_
 
