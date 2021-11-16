@@ -39,5 +39,8 @@ An application that allow users to search and find gifs by putting keyword, Also
 
 ## Contact
 
-_If you have any questions please feel free to contact me [Kate K.](mailto:keidsiri@gmail.com) [Matt C.](mailto:mc.casperson@gmail.com) [Andrew](mailto:drewhendersonemail@gmail.com_
+_If you have any questions please feel free to contact us <br>
+[Kate K.](mailto:keidsiri@gmail.com) <br>
+[Matt C.](mailto:mc.casperson@gmail.com) <br>
+[Andrew](mailto:drewhendersonemail@gmail.com)_
 
