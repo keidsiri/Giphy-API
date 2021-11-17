@@ -38,12 +38,10 @@ An application that allow users to search and find gifs by putting keyword, Also
 #### [MIT](https://opensource.org/licenses/MIT) Copyright (c) _2021_ _Kate Kiatsiri , Matt Casperson , Drew Henderson, Katie Pundt, Marisa Edgar_
 
 ## Contact
-
-_If you have any questions please feel free to contact us <br>
+If you have any questions please feel free to contact us <br>
 [Kate K.](mailto:keidsiri@gmail.com) <br>
 [Matt C.](mailto:mc.casperson@gmail.com) <br>
 [Andrew](mailto:drewhendersonemail@gmail.com)<br>
 [Katie P.](mailto:kzpundt@gmail.com)<br>
 [Marisa E.](mailto:marisaedgar1212@gmail.com)<br>
-_
 
